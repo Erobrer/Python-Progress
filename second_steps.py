@@ -65,21 +65,40 @@
 # print(a) #!!!!!!!!!!! if there isnt return in the function you cant save the result
 # print("----------------------------------")
 
-print("----------------------------------")
+# print("----------------------------------")
+#
+# is_male = True
+# is_tall = False
+#
+# if is_male or is_tall:
+#     print("You are male or tall or both")
+# else:
+#     print("You are not male or tall")
+#
+# if is_male and is_tall:
+#     print("You are tall male")
+# elif is_male and not is_tall:
+#     print("You are short male")
+# elif not is_male and is_tall:
+#     print("You are long female")
+# else:
+#     print("You are not male or tall or both")
+# print("----------------------------------")
 
-is_male = True
-is_tall = False
 
-if is_male or is_tall:
-    print("You are male or tall or both")
-else:
-    print("You are not male or tall")
 
-if is_male and is_tall:
-    print("You are tall male")
-elif is_male and not is_tall:
-    print("You are short male")
-elif not is_male and is_tall:
-    print("You are long female")
-else:
-    print("You are not male or tall or both")
+
+# print("----------------------------------")
+#
+# def max_num(num1,num2, num3):
+#     if num1 >= num2 and num1 >= num3:
+#         return num1
+#     elif num2 >= num1 and num2 >= num3:
+#         return num2
+#     else:
+#         return num3
+#
+# print( max_num(1,2,3))
+# print("----------------------------------")
+
+
